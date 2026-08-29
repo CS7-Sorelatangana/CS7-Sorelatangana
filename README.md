@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**CS7-Sorelatangana/CS7-Sorelatangana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Sorel 💻🔐
 
-Here are some ideas to get you started:
+🎓 System & Network Administration graduate
+🔐 Aspiring Cybersecurity Professional
+🐧 Linux enthusiast
+🌐 Networking lover
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I’m up to
+
+* 🔎 Learning & practicing cybersecurity
+* 🐧 Playing with Linux & networking
+* 💻 Working on tech projects
+* 📚 Learning something new every day
+
+🛠️ My playground
+
+Linux • Cisco • VMware • Kali Linux • Nmap • GitHub • Web Security
+
+Build. Break. Learn. Repeat. 🔐
+
+Thanks for stopping by! 👋🏽
