@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I’m Sorel 💻
+I’m Sorel 💻
 
 🎓 System & Network Administration graduate
 🔐 Aspiring Cybersecurity Professional
